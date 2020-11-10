@@ -1,5 +1,4 @@
 def say_hi_to(name):
-    return "hello"
+    return name
 
-
-print(say_hi_to("daddy"))
+print(say_hi_to("Hi daddy!"))
